@@ -1,4 +1,4 @@
-# mineflayer-whitelist
+# mineflayer-uuid-whitelist
 
 A simple whitelist plugin to manage your UUID based whitelist, great for anarchy servers
 
