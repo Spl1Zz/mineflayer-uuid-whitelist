@@ -1,0 +1,1 @@
+# mineflayer-uuid-whitelist
