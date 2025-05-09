@@ -19,7 +19,7 @@ const whitelistPlugin = require('mineflayer-uuid-whitelist');
 const bot = mineflayer.createBot({
   host: 'localhost',
   port: 25565,
-  username: 'bot@example.com'
+  username: 'bot'
 });
 
 bot.loadPlugin(whitelistPlugin);
