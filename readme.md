@@ -14,7 +14,7 @@ Load the plugin with your bot instance:
 
 ```js
 const mineflayer = require('mineflayer');
-const whitelistPlugin = require('@spliZz/mineflayer-whitelist');
+const whitelistPlugin = require('mineflayer-uuid-whitelist');
 
 const bot = mineflayer.createBot({
   host: 'localhost',
