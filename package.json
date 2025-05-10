@@ -1,0 +1,23 @@
+{
+  "name": "mineflayer-uuid-whitelist",
+  "version": "1.1.6",
+  "description": "A simple whitelist plugin to manage your UUID based whitelist, great for anarchy servers",
+  "keywords": [
+    "mineflayer"
+  ],
+  "homepage": "https://github.com/Spl1Zz/mineflayer-uuid-whitelist#readme",
+  "bugs": {
+    "url": "https://github.com/Spl1Zz/mineflayer-uuid-whitelist/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spl1Zz/mineflayer-uuid-whitelist.git"
+  },
+  "license": "ISC",
+  "author": "SpliZz",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
