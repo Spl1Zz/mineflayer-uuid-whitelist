@@ -68,9 +68,9 @@ Variables | Possible values |logic
 
 ### Example uuidconfig.json:
 ```js
-[
+{
   "logs": true
-]
+}
 ```
 
 ## Notes
